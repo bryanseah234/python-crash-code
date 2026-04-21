@@ -1,4 +1,4 @@
-# python-crash-code
+# pythoncrash
 code to use up memory in python to slow down your device.
 
 <p align="left">
